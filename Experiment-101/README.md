@@ -53,7 +53,8 @@ int main(void) {
 }
 ```
 ## Output
-jhigugigu
+<img width="1422" height="194" alt="Screenshot 2026-03-13 104148" src="https://github.com/user-attachments/assets/38fbcc54-e5c2-4dc7-afa3-436b27d55206" />
+
 ---
 
 ## Result
