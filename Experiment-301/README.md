@@ -232,6 +232,13 @@ MsgSend return status: 0
 ---
 
 # Output
+### Server Side
+
+<img width="1410" height="267" alt="Image" src="https://github.com/user-attachments/assets/ac9cf789-37ac-4fdb-8033-8ab223f9c631" />
+
+### Client Side
+
+<img width="1407" height="255" alt="Image" src="https://github.com/user-attachments/assets/d8286213-9927-4716-94c3-2a5533bbc272" />
 
 ---
 
