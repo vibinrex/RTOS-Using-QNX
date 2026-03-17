@@ -28,6 +28,7 @@ State 1 → State 3 (if internal variable is odd)
 State 2 → State 0
 State 3 → State 0
 ```
+<img width="211" height="171" alt="Image" src="https://github.com/user-attachments/assets/3de56edd-22ea-4bb4-a22c-91e6b5ca4670" />
 
 Each state is handled by a **separate thread**, and threads synchronize using **mutex locks and condition variables**.
 
