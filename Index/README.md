@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Logo" width="500">
+  <img width="455" height="111" alt="Image" src="https://github.com/user-attachments/assets/2d4504ee-0bf6-4a86-a3b7-07b5f1a03645" />
 </p>
 <p align="center">
     <b>19EC527: Real Time Operating System using QNX
