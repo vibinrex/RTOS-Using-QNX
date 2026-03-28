@@ -250,11 +250,12 @@ MsgSend return status: 0
 # Output
 ### Server Side
 
-<img width="1410" height="267" alt="Image" src="https://github.com/user-attachments/assets/bb868c2b-1c76-49a5-bd98-f69ed80d31dd" />
+
+<img width="1410" height="267" alt="Screenshot 2026-03-14 103918" src="https://github.com/user-attachments/assets/f6dffe09-e4ca-4ff9-8e2f-042040d51966" />
 
 ### Client Side
 
-<img width="1407" height="255" alt="Image" src="https://github.com/user-attachments/assets/da4ecfdf-faef-4566-8b8b-7ffae6806136" />
+<img width="1407" height="255" alt="Screenshot 2026-03-14 103807" src="https://github.com/user-attachments/assets/863121fa-8f7b-4398-a513-4677f3bf1bea" />
 
 ---
 
